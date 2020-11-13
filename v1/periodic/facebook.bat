@@ -1,0 +1,1 @@
+curl -i -X POST -H "Content-Type: application/json" --data "@facebookdata.json" http://localhost/databox/pushfb

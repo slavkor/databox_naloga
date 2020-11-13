@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/databox/templates/fb.twig</file>
+            <file>file:/C:/databox/templates/ggl.twig</file>
+            <file>file:/C:/databox/config/routes.php</file>
+            <file>file:/C:/databox/src/Action/GoogleOauth2CallbackAction.php</file>
+            <file>file:/C:/databox/templates/fbpost.twig</file>
+            <file>file:/C:/databox/src/Action/FacebookGetOauthCallback.php</file>
+            <file>file:/C:/databox/src/Action/FacebookLoginAction.php</file>
+            <file>file:/C:/databox/src/Action/GoogleAction.php</file>
+        </group>
+    </open-files>
+</project-private>
